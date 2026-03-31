@@ -57,7 +57,7 @@ Task management API.
 ---
 
 ## 📫 Contact
-- Email: chacon.u.gabriel 
+- Email: chacon.u.gabriel@gmail.com
 
 ---
 
