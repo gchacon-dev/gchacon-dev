@@ -21,32 +21,7 @@ Currently improving my skills by creating real-world projects and preparing to w
 ---
 
 ## 🚀 Projects
-
-### 📦 Inventory API
-Backend system to manage products and stock.
-
-- Create, update and delete products  
-- Manage inventory  
-- RESTful API  
-
----
-
-### 👤 Users API
-User management system with CRUD operations.
-
-- Create users  
-- Update information  
-- Delete users  
-
----
-
-### 📋 To-Do API
-Task management API.
-
-- Create tasks  
-- Mark tasks as completed  
-- Filter tasks  
-
+  
 ---
 
 ## 📈 Currently Learning
