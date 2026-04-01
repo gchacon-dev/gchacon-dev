@@ -14,7 +14,7 @@ Currently improving my skills by creating real-world projects and preparing to w
 ## 🛠️ Technologies
 - C#
 - .NET
-- Entity Framework
+- ADO.NET
 - SQL Server
 - REST APIs
 
